@@ -1,0 +1,11 @@
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+obj/
+/KeystoreBreaker/nbproject/private/
+/nbproject/private/
+/dist/
+/build/
